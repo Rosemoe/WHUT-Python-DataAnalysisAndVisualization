@@ -1,4 +1,4 @@
-## WHUT-Python-DataAnslysisAndVisualization
+## WHUT-Python-DataAnalysisAndVisualization
 
 #### 这是什么？
 
